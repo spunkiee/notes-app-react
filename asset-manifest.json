@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/notes-app-react/static/css/main.5fa6ee1b.chunk.css",
-    "main.js": "/notes-app-react/static/js/main.61287324.chunk.js",
-    "main.js.map": "/notes-app-react/static/js/main.61287324.chunk.js.map",
+    "main.js": "/notes-app-react/static/js/main.942a0187.chunk.js",
+    "main.js.map": "/notes-app-react/static/js/main.942a0187.chunk.js.map",
     "runtime-main.js": "/notes-app-react/static/js/runtime-main.b042465e.js",
     "runtime-main.js.map": "/notes-app-react/static/js/runtime-main.b042465e.js.map",
-    "static/css/2.11829350.chunk.css": "/notes-app-react/static/css/2.11829350.chunk.css",
-    "static/js/2.56f46137.chunk.js": "/notes-app-react/static/js/2.56f46137.chunk.js",
-    "static/js/2.56f46137.chunk.js.map": "/notes-app-react/static/js/2.56f46137.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/notes-app-react/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3188fe31.chunk.js": "/notes-app-react/static/js/2.3188fe31.chunk.js",
+    "static/js/2.3188fe31.chunk.js.map": "/notes-app-react/static/js/2.3188fe31.chunk.js.map",
     "index.html": "/notes-app-react/index.html",
-    "precache-manifest.d152962279140d6fb87293ea749dfa77.js": "/notes-app-react/precache-manifest.d152962279140d6fb87293ea749dfa77.js",
+    "precache-manifest.37ab00893cbb36b59ca4d0f03216b0fd.js": "/notes-app-react/precache-manifest.37ab00893cbb36b59ca4d0f03216b0fd.js",
     "service-worker.js": "/notes-app-react/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/notes-app-react/static/css/2.11829350.chunk.css.map",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/notes-app-react/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.5fa6ee1b.chunk.css.map": "/notes-app-react/static/css/main.5fa6ee1b.chunk.css.map",
-    "static/js/2.56f46137.chunk.js.LICENSE.txt": "/notes-app-react/static/js/2.56f46137.chunk.js.LICENSE.txt",
+    "static/js/2.3188fe31.chunk.js.LICENSE.txt": "/notes-app-react/static/js/2.3188fe31.chunk.js.LICENSE.txt",
     "static/media/archive.png": "/notes-app-react/static/media/archive.e6756c34.png",
     "static/media/logo.png": "/notes-app-react/static/media/logo.c93b5ac1.png",
     "static/media/notes.png": "/notes-app-react/static/media/notes.0f1c59dc.png",
@@ -22,9 +22,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b042465e.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.56f46137.chunk.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3188fe31.chunk.js",
     "static/css/main.5fa6ee1b.chunk.css",
-    "static/js/main.61287324.chunk.js"
+    "static/js/main.942a0187.chunk.js"
   ]
 }
